@@ -23,6 +23,22 @@ var data = [
     'Wish list items', 11,
     'Raising Awareness', 10
   ]],
+    ["Name an Organization supported by grants from Fund for the Arts", [
+    'Louisville Youth Orchestra', 25,
+    'StageOne Family Theatre', 22,
+    'Kentucky Opera', 19,
+    'Louisville Ballet', 15,
+    'Kentucky Shakespeare', 11,
+    'Louisville Visual Art', 10
+  ]],
+   ["Name a School System that Benefits from Fund for the Arts donors:", [
+    'Jefferson County', 25,
+    'Floyd County', 22,
+    'Greater Clark County', 19,
+    'Shelby County', 15,
+    'Oldham County', 11,
+    'Bullitt County', 10
+  ]],
   ["Name 6 Countries WaterStep Helped After a Disaster Since 2009", [
     'Haiti', 25,
     'Puerto Rico', 22,
