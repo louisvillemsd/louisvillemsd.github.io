@@ -15,7 +15,7 @@ var data = [
     'Needs best met by forever family', 11,
     '', 10
   ]],
-  ["Name 6 Things that Your Donations to the Wednesday’s Child Help Fund", [
+  ["Name 6 Things Your Wednesday’s Child Donation Helps Fund", [
     'Kentucky Kingdom Day', 25,
     'Holiday Party and Gifts', 22,
     'Graduation Party', 19,
@@ -23,7 +23,7 @@ var data = [
     'Wish list items', 11,
     'Awareness-Raising and Recruitment Activities ', 10
   ]],
-  ["Name 6 countries WaterStep has helped after a disaster since 2009", [
+  ["Name 6 Countries WaterStep Helped After a Disaster Since 2009", [
     'Haiti', 25,
     'Puerto Rico', 22,
     'Ecuador', 19,
