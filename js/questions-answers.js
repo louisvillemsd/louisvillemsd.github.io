@@ -1,27 +1,27 @@
 var data = [
-  ["Fund For The Arts", [
-    'Junk Week', 29,
-    'High Grass & Weeds', 23,
-    'Trash on Private Property', 22, 
-    'Damaged Garbage Carts', 21, 
-    'Abandoned Vehicles ', 8,
-    'Street Pothole', 7
+  ["Top 5 Myths About Being An Adoptive Parent?", [
+    'Too expensive', 29,
+    'Have to be married', 23,
+    'Have to own your own home', 22, 
+    'Have to be wealthy', 21, 
+    'Adopter age limit', 8,
+    '', 7
   ]],
-  ["Wednesday's Child", [
-    'LMPD', 25,
-    'Corrections', 22,
-    'Parks', 19,
-    'Fire & Rescue', 15,
-    'Public Works', 11,
-    'Library', 10
+  ["5 Things Children Waiting for Adoption Have in Common?", [
+    'Want a forever home', 25,
+    'Have a lot of love to give', 22,
+    'Come from all walks of life', 19,
+    'Have experienced loss and trauma', 15,
+    'Needs bes met by forever family', 11,
+    '', 10
   ]],
-  ["Metro United Way", [
-    'PDCA', 25,
-    'Overtime reduction', 22,
-    'Safety Tip', 19,
-    'TIME!!!', 15,
-    'Best Practices', 11,
-    'Fascinating...', 10
+  ["Name 6 Things that Your Donations to the Wednesday’s Child Help Fund", [
+    'Kentucky Kingdom Day', 25,
+    'Holiday Party and Gifts', 22,
+    'Graduation Party', 19,
+    'Computers', 15,
+    'Wish list items', 11,
+    'Awareness-Raising and Recruitment Activities ', 10
   ]],
   ["Water Charities", [
     'Cherokee', 25,
