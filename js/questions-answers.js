@@ -13,6 +13,7 @@ var data = [
     'Come from all walks of life', 19,
     'Have experienced loss and trauma', 15,
     'Needs best met by forever family', 11,
+    '', 11,
   ]],
   ["Name 6 Things Your Wednesday’s Child Donation Helps Fund", [
     'Kentucky Kingdom Day', 25,
@@ -20,7 +21,7 @@ var data = [
     'Graduation Party', 19,
     'Computers', 15,
     'Wish list items', 11,
-    'Awareness-Raising and Recruitment Activities ', 10
+    'Raising Awareness', 10
   ]],
   ["Name 6 Countries WaterStep Helped After a Disaster Since 2009", [
     'Haiti', 25,
