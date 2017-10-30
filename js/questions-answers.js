@@ -12,7 +12,7 @@ var data = [
     'Have a lot of love to give', 22,
     'Come from all walks of life', 19,
     'Have experienced loss and trauma', 15,
-    'Needs bes met by forever family', 11,
+    'Needs best met by forever family', 11,
     '', 10
   ]],
   ["Name 6 Things that Your Donations to the Wednesday’s Child Help Fund", [
@@ -23,13 +23,13 @@ var data = [
     'Wish list items', 11,
     'Awareness-Raising and Recruitment Activities ', 10
   ]],
-  ["Water Charities", [
-    'Cherokee', 25,
-    'Shawnee', 22,
-    'Iroquois', 19,
-    'Seneca', 15,
-    'Chickasaw', 11,
-    'Central', 5
+  ["Name 6 countries WaterStep has helped after a disaster since 2009", [
+    'Haiti', 25,
+    'Puerto Rico', 22,
+    'Ecuador', 19,
+    'Colombia', 15,
+    'Philippines', 11,
+    'Nepal', 5
   ]],
   ["Louisville Landmarks that are no longer but still referenced", [
     'Old Sears', 25,
