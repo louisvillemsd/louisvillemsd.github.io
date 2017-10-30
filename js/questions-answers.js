@@ -13,7 +13,6 @@ var data = [
     'Come from all walks of life', 19,
     'Have experienced loss and trauma', 15,
     'Needs best met by forever family', 11,
-    '', 10
   ]],
   ["Name 6 Things Your Wednesday’s Child Donation Helps Fund", [
     'Kentucky Kingdom Day', 25,
