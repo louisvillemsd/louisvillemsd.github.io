@@ -48,7 +48,7 @@ var data = [
     '', 10
   ]],
     ["Partner Agencies of Metro United Way", [
-    'Big Brothers / Sisters of Kentuckiana', 25,
+    'Big Brothers / Sisters', 25,
     'Louisville Urban League', 22,
     'Elderserve', 19,
     'American Red Cross', 15,
