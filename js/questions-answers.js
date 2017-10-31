@@ -56,9 +56,9 @@ var data = [
     'Center for Women and Families', 10
   ]],
   ["3 Ways You Can Support Metro United Way", [
-    'Jefferson County', 25,
-    'Floyd County', 22,
-    'Greater Clark County', 19,
+    'Give', 25,
+    'Advocate', 22,
+    'Volunteer', 19,
     '', 15,
     '', 11,
     '', 10
